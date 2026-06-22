@@ -65,7 +65,7 @@ The goal was to identify top-performing products, high-revenue regions, inventor
 
 Add your dashboard screenshot below:
 
-![Dashboard Screenshot](Dashboard.png)
+![Dashboard Screenshot](Dashboard)
 
 ---
 
@@ -73,7 +73,7 @@ Add your dashboard screenshot below:
 
 View the interactive dashboard here:
 
-PASTE_YOUR_TABLEAU_PUBLIC_LINK_HERE
+https://public.tableau.com/app/profile/ashwin.r4543/viz/RetailinventorySalesPerformanceDashboard/RetailInventorySalesPerformanceDashboard?publish=yes
 
 ---
 
