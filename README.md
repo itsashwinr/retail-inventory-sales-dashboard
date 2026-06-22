@@ -1,114 +1,90 @@
 # Retail Inventory & Sales Performance Dashboard
 
-## Project Overview
+## Overview
 
-This project analyzes retail sales, inventory levels, demand forecasting, and promotional performance using SQL and Tableau.
+Analyzed retail inventory and sales data using MySQL and developed an interactive Tableau dashboard to evaluate revenue performance, inventory optimization, demand forecasting accuracy, and promotion effectiveness.
 
-The goal was to identify top-performing products, high-revenue regions, inventory risks, and the effectiveness of promotions to support data-driven retail decision-making.
+The project focuses on identifying top-performing products, inventory risks, forecasting errors, and the impact of promotional campaigns on sales performance.
 
----
+## Tools
 
-## Tools Used
+* MySQL
+* Tableau Public
+* Microsoft Excel
 
-- SQL (MySQL)
-- Tableau Public
-- Excel
+## Live Dashboard
 
----
+🔗 Tableau Public Dashboard: [View Dashboard](https://public.tableau.com/app/profile/ashwin.r4543/viz/RetailinventorySalesPerformanceDashboard/RetailInventorySalesPerformanceDashboard)
 
-## Business Questions Answered
+## Dataset
 
-### Sales Analysis
-- Which regions generate the highest revenue?
-- Which products generate the most revenue?
-- How do promotions affect sales?
+* Retail Store Inventory Dataset
+* 10,000 Records (Approx.)
 
-### Inventory Analysis
-- Which products require restocking?
-- Which products may be overstocked?
+## SQL Analysis
 
-### Forecasting Analysis
-- Which categories have the highest forecast error?
-- How accurate are demand forecasts?
+Performed business analysis using SQL, including:
 
----
-
-## Key Insights
-
-- Identified top revenue-generating products.
-- Analyzed revenue performance across regions.
-- Detected products at risk of stockouts.
-- Identified potential overstock situations.
-- Evaluated forecasting performance across categories.
-- Measured the impact of promotions on sales.
-
----
+* Revenue by Region
+* Sales by Category
+* Top Products by Revenue
+* Store Performance Analysis
+* Understocked Products Identification
+* Overstocked Products Analysis
+* Forecast Accuracy Evaluation
+* Forecast Error Analysis
+* Promotion Impact on Sales
 
 ## Dashboard Features
 
 ### KPIs
-- Total Revenue
-- Total Units Sold
-- Average Inventory Level
-- Forecast Accuracy
+
+* Total Revenue
+* Total Units Sold
+* Average Inventory Level
+* Forecast Accuracy
 
 ### Visualizations
-- Regional Revenue Performance
-- Top 10 Products by Revenue
-- Products Requiring Restocking
-- Forecast Error by Category
-- Promotion Impact on Sales
 
----
+* Regional Revenue Performance
+* Top 10 Products by Revenue
+* Products Requiring Restocking
+* Forecast Error by Category
+* Promotion Impact on Sales
+
+### Filters
+
+* Region
+* Category
+
+## Key Insights
+
+* Identified regions contributing the highest revenue.
+* Highlighted top-performing products based on revenue.
+* Detected products requiring immediate restocking.
+* Evaluated forecasting performance across product categories.
+* Measured the effectiveness of promotional activities on sales.
+* Provided actionable insights for inventory optimization and demand planning.
 
 ## Dashboard Preview
 
-Add your dashboard screenshot below:
-
-![Dashboard Screenshot](Dashboard)
-
----
-
-## Live Dashboard
-
-🔗 Tableau Public Dashboard: [View Dashboard]
-(https://public.tableau.com/app/profile/ashwin.r4543/viz/RetailinventorySalesPerformanceDashboard/RetailInventorySalesPerformanceDashboard?publish=yes)
-
-
----
+![Dashboard](Dashboard/Dashboard.png)
 
 ## Project Structure
 
-```text
-retail-inventory-sales-dashboard
+Retail-Inventory-Sales-Dashboard/
 
-README.md
+├── Dataset/
 
-SQL/
-└── retail_inventory_analysis.sql
+├── SQL/
 
-Dashboard/
-├── dashboard_screenshot.png
-└── tableau_public_link.txt
+├── Dashboard/
 
-Dataset/
-└── retail_store_inventory_dataset.csv
-```
+│   ├── Dashboard.png
 
----
+│   └── tableau_public_link.txt
 
-## Skills Demonstrated
-
-- SQL Data Analysis
-- Aggregations & Grouping
-- Business KPI Analysis
-- Inventory Optimization
-- Demand Forecast Analysis
-- Data Visualization
-- Dashboard Design
-- Tableau Public Publishing
-
----
+└── README.md
 
 ## Author
 
