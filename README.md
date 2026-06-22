@@ -65,7 +65,7 @@ The goal was to identify top-performing products, high-revenue regions, inventor
 
 Add your dashboard screenshot below:
 
-![Dashboard Screenshot](Dashboard/dashboard_screenshot.png)
+![Dashboard Screenshot](Dashboard.png)
 
 ---
 
