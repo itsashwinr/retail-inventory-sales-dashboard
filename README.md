@@ -69,11 +69,11 @@ Add your dashboard screenshot below:
 
 ---
 
-## Tableau Public Dashboard
+## Live Dashboard
 
-View the interactive dashboard here:
+🔗 Tableau Public Dashboard: [View Dashboard]
+(https://public.tableau.com/app/profile/ashwin.r4543/viz/RetailinventorySalesPerformanceDashboard/RetailInventorySalesPerformanceDashboard?publish=yes)
 
-https://public.tableau.com/app/profile/ashwin.r4543/viz/RetailinventorySalesPerformanceDashboard/RetailInventorySalesPerformanceDashboard?publish=yes
 
 ---
 
